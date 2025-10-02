@@ -1,0 +1,14 @@
+.retangulo-vermelho{
+    display: flex;
+    width: 707px;
+    padding: 10px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+}
+
+.Rh{
+    width: 934.5px;
+    height: 897.5px;
+    flex-shrink: 0;
+}
